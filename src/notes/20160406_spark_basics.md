@@ -51,6 +51,11 @@ fast build: build/sbt -Pyarn -Phadoop-2.3 assembly
 (1) spark streaming + kafka + storm:
 http://www.michael-noll.com/blog/2014/05/27/kafka-storm-integration-example-tutorial/
 
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04
+
+http://www.bogotobogo.com/Hadoop/BigData_hadoop_Zookeeper_Kafka_single_node_Multiple_broker_cluster.php
+
+https://github.com/zhuohuwu0603/kafka-storm-starter
 
 4. Spark with Cassandra: see climate analysis
 
