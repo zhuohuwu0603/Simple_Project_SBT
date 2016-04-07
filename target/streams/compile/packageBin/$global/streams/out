@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/simple-project_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Hello.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/classes/Hello.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/classes/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	HelloJava.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/classes/HelloJava.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/classes/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/classes/SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	log4j.properties[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/classes/log4j.properties[0m
+[0m[[0mdebug[0m] [0m	Hello$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/classes/Hello$.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhuohuawu/Documents/zw_codes/simple-app/target/scala-2.10/classes/SimpleApp$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
