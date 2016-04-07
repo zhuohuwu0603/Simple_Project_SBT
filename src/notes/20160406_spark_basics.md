@@ -16,6 +16,8 @@
 	val conf = new SparkConf().setAppName("Simple Application").setMaster("local[4]")
 
 	sc.stop //add at the end
+http://stackoverflow.com/questions/28362341/error-utils-uncaught-exception-in-thread-sparklistenerbus
+
 
 	sbt package
 	sbt run	
@@ -30,4 +32,27 @@ cd /Users/zhuohuawu/Documents/zw_codes/testTools/sbtTest
   target/scala-2.10/simple-project_2.10-1.0.jar	
 
 
+2. Build spark from source code
+(1) Download Spark source code using git clone:
 
+(2) import into Intellij using via sbt project
+
+(3) build/sbt clean assembly
+
+http://spark.apache.org/docs/latest/building-spark.html#speeding-up-compilation-with-zinc
+
+fast build: build/sbt -Pyarn -Phadoop-2.3 assembly
+
+(4)
+
+
+3. Spark streaming with Kafka
+
+(1) spark streaming + kafka + storm:
+http://www.michael-noll.com/blog/2014/05/27/kafka-storm-integration-example-tutorial/
+
+
+4. Spark with Cassandra: see climate analysis
+
+
+5. Spark with Elastic Search
